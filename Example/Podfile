@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HTMaskView_Example' do
+  pod 'HTMaskView', :path => '../'
+
+  target 'HTMaskView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
