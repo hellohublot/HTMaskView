@@ -1,0 +1,6 @@
+framework module HTMaskView {
+  umbrella header "HTMaskView-umbrella.h"
+
+  export *
+  module * { export * }
+}

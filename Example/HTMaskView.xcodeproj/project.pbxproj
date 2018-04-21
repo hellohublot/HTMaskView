@@ -39,9 +39,9 @@
 /* Begin PBXFileReference section */
 		0330CB4B92D595304BFC2914 /* Pods-HTMaskView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTMaskView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HTMaskView_Example/Pods-HTMaskView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		315E0F8D54ADACDFF14E9C5B /* Pods-HTMaskView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTMaskView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HTMaskView_Tests/Pods-HTMaskView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3400C83BF0021A771D3375EA /* HTMaskView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HTMaskView.podspec; path = ../HTMaskView.podspec; sourceTree = "<group>"; };
-		383F7535AD3B474460950129 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		570666AD6DD6DCB416773AC1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3400C83BF0021A771D3375EA /* HTMaskView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HTMaskView.podspec; path = ../HTMaskView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		383F7535AD3B474460950129 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		570666AD6DD6DCB416773AC1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* HTMaskView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HTMaskView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };

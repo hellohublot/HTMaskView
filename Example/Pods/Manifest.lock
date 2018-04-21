@@ -1,0 +1,16 @@
+PODS:
+  - HTMaskView (0.1.0)
+
+DEPENDENCIES:
+  - HTMaskView (from `../`)
+
+EXTERNAL SOURCES:
+  HTMaskView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HTMaskView: eb1e785dbf27924a819aee5683ca3de1f4f94b29
+
+PODFILE CHECKSUM: e17757b2ea454b315cf14fac7f2c209a6cf22160
+
+COCOAPODS: 1.4.0
